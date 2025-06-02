@@ -1,0 +1,8 @@
+# Ignorar arquivos globais
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+
+# Ignorar a pasta docs_de_acesso
+docs_de_acesso/
