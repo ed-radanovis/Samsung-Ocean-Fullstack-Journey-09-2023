@@ -29,7 +29,7 @@ Below is the result of the completed project:
   <br>
 
 <p align="center">
-<img src="frontend\src\assets\Model.png" alt="print-screen-image" width="600px" >
+<img src="JornadaFullstackSamsungOcean/frontend/src/assets/Model.png" alt="print-screen-image" width="400px" >
 </p>
 <br>
 <br>
@@ -50,7 +50,7 @@ The project was fully completed and some of the resources used were:
 
 - [x] **Database**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)](https://www.mongodb.com)
 
-- [x] **Integration**:&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/ed-radanovis/Samsung_Ocean_Jornada_FullStack/master/JornadaFullstackSamsungOcean/frontend/public/rick_and_morty.png" width="21px" alt="Rick and Morty Icon">![Rick and Morty API](https://img.shields.io/badge/-Rick%20and%20Morty%20API-333333?style=flat&logo=api)](https://rickandmortyapi.com)
+- [x] **Integration**:&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/ed-radanovis/Samsung-Ocean-Fullstack-Journey-09-2023/master/JornadaFullstackSamsungOcean/frontend/public/rick_and_morty.png" width="21px" alt="Rick and Morty Icon">![Rick and Morty API](https://img.shields.io/badge/-Rick%20and%20Morty%20API-333333?style=flat&logo=api)](https://rickandmortyapi.com)
 
 - [x] **Testing**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=119b0f)](https://jestjs.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-333333?style=flat&logo=testing-library)](https://testing-library.com/docs/react-testing-library/intro)
 
@@ -236,7 +236,7 @@ test("renders hero name", () => {
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/edmar-radanovis-0130b611a/">
-        <img src="JornadaFullstackSamsungOcean/frontend/public/Logo_EWD_APEX.pngLogo_EWD_APEX.png" width="120px;"height="120px;" alt="Logo da EWD Apex"/><br>
+        <img src="JornadaFullstackSamsungOcean/frontend/public/Logo_EWD_APEX.png" width="120px;"height="120px;" alt="Logo da EWD Apex"/><br>
       <sub>
         <b>Edmar Radanovis</b>
       </sub>
