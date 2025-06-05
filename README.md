@@ -34,7 +34,7 @@ Below is the result of the completed project:
 <br>
 <br>
 <div align="center">
- <a href="https://" >Click here to try it out .. thanks for your interest!</a>
+ <a href="https://samsungoceanjourney.onrender.com/" >Click here to try it out .. thanks for your interest!</a>
  <p>( 🖱️ Ctrl + click to open in a new tab )</p>
 </div>
  <br>
