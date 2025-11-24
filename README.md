@@ -294,4 +294,5 @@ Backend :
   </tr>
 </table>
 
-[⬆ Voltar ao topo](#project-to-consolidate-fullstack-concepts-with-mern)
+[⬆ Back to top](#project-to-consolidate-fullstack-concepts-with-mern)
+
